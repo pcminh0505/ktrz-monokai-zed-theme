@@ -2,6 +2,13 @@
 
 Inspired by [KTRZ Monokai for VSCode](https://github.com/ixkaito/ktrz-monokai)
 
+**JS**
+![](./screenshots/js.png)
+**Python**
+![](./screenshots/python.png)
+**Rust**
+![](./screenshots/rust.png)
+
 ## Installation
 
 ### Manual
