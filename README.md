@@ -22,7 +22,11 @@ Please follow [Zed's guide to add custom theme](https://zed.dev/blog/user-themes
 ```
 
 2. Copy the `./themes/ktrz-monokai.json` in this repo to Zed's theme folder above
+3. Customize base on latest supported [color.rs](https://github.com/zed-industries/zed/blob/main/crates/theme/src/styles/colors.rs)
 
 ### Install as Extension
 
-TBA
+1. Open Command Palette
+2. Select `zed: extensions`
+3. Search `KTRZ Monokai`
+4. Install and activate
