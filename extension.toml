@@ -1,6 +1,6 @@
 id = "ktrz-monokai"
 name = "KTRZ Monokai Theme"
-version = "0.0.4"
+version = "0.0.5"
 schema_version = 1
 authors = ["Minh Pham <pcminh0505@gmail.com>"]
 description = "KTRZ Monokai Theme for Zed"
