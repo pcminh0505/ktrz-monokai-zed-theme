@@ -238,6 +238,11 @@
             "font_style": null,
             "font_weight": null
           },
+          "punctuation.special": {
+            "color": "#E6DB74",
+            "font_style": null,
+            "font_weight": null
+          },
           "tag": {
             "color": "#F92672",
             "font_style": null,
@@ -255,6 +260,16 @@
           },
           "variable.special": {
             "color": "#A6E22E",
+            "font_style": null,
+            "font_weight": null
+          },
+          "operator": {
+            "color": "#F92672",
+            "font_style": null,
+            "font_weight": null
+          },
+          "property": {
+            "color": "#F92672",
             "font_style": null,
             "font_weight": null
           }
